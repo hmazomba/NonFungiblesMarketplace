@@ -1,1 +1,1 @@
-NonFungiblesMarketplace
+NonFungiblesMarketplace is an Open Sea clone built with Next.js, Solidity and hardhat. I was following Naderbit's tutorial on YouTube. I found it very informative and really loved the pacing. I recommend checking it out before cloning this. 
